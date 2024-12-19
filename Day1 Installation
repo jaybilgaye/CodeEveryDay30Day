@@ -1,0 +1,19 @@
+Installation:
+
+(base) ~/Documents/projects/default ᐅ nvm install 22
+
+Downloading and installing node v22.12.0...
+Downloading https://nodejs.org/dist/v22.12.0/node-v22.12.0-darwin-x64.tar.xz...
+############################################################################################################################################################################### 100.0%
+Computing checksum with sha256sum
+Checksums matched!
+Now using node v22.12.0 (npm v10.9.0)
+Creating default alias: default -> 22 (-> v22.12.0)
+
+(base) ~/Documents/projects/default ᐅ node -v
+v22.12.0
+(base) ~/Documents/projects/default ᐅ
+
+
+
+
