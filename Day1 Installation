@@ -1,4 +1,5 @@
 Installation:
+Refer:https://nodejs.org/en/download/package-manager
 
 (base) ~/Documents/projects/default ᐅ nvm install 22
 
@@ -18,6 +19,14 @@ v22.12.0
 v22.12.0
 (base) ~/Documents/projects/default ᐅ npm -v
 10.9.0
+
+https://nodejs.org/en/download/package-manager
+
+
+Next:
+
+https://nextjs.org/
+
 
 
 
