@@ -1,0 +1,8 @@
+#####cd /Users/jay/Documents/projects/Nextjs/Javascript/HuXnWebDev
+#!/bin/bash
+git clone https://github.com/jaybilgaye/AI_rules_template_cursor.git
+
+cd AI_rules_template_cursor/
+
+###Create Your Project Folder: cursor-demo2
+cp -rf AI_rules_template_cursor/.cursor .
